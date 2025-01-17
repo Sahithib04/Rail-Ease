@@ -1,4 +1,4 @@
-# Train Ticket Reservation System
+# Rail-Ease
 
 [![Java](https://img.shields.io/badge/Java-17-blue)](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7.13-green)](https://spring.io/projects/spring-boot)
@@ -146,17 +146,4 @@ Here's the revised instruction, including the "Register New User" button detail 
 
 
 
-## Contributing
 
-🚀 **We welcome contributions to enhance this project!** 🚀
-
-If you have ideas for new features or improvements, please open an issue or submit a pull request. Whether you're looking to fix bugs, improve documentation, or develop new functionalities, your contributions are highly valued.
-
-### Suggestions for Improvement:
-- Enhance user interface with modern design
-- Implement advanced analytics for ticket booking
-- Add multi-language support
-
-We are excited to collaborate and make this project even better. **Let's build something great together!** 💪
-
-**Happy coding!** 🎉
